@@ -1,132 +1,66 @@
 <div align="center">🔥 ETH BD Telegram UserBot 🔥
 
-<img src="https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge">
+⚡ Advanced Telegram Automation Tool Built With Pyrogram ⚡
+
+<img src="https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python">
 <img src="https://img.shields.io/badge/Pyrogram-Latest-success?style=for-the-badge">
-<img src="https://img.shields.io/badge/Platform-Telegram-2CA5E0?style=for-the-badge">
-<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge">⚡ Powerful Telegram Automation UserBot Built With Python & Pyrogram ⚡
+<img src="https://img.shields.io/badge/Telegram-UserBot-2CA5E0?style=for-the-badge&logo=telegram">
+<img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge">---
 
-</div>---
+🚀 Fast • Powerful • Lightweight
 
-✨ Features
+</div>📖 About
 
-✔️ Fast Ping System
+ETH BD Telegram UserBot is a Python-based Telegram automation project built using Pyrogram.
 
-✔️ Multiple Message Sending
+This project demonstrates:
 
-✔️ Delayed Message Sending
-
-✔️ Group Broadcasting
-
-✔️ Animated Terminal Interface
-
-✔️ Easy Login System
-
-✔️ Async Performance
-
-✔️ Clean Command Handler
+- Telegram API Integration
+- Async Programming
+- Command Handling
+- UserBot Development
+- Automation Techniques
 
 ---
 
-📥 Installation
+✨ Features
 
-Clone Repository
+🔹 Fast Ping Command
 
-git clone https://github.com/USERNAME/ETH-BD-UserBot.git
+🔹 Multi Message Sender
+
+🔹 Delayed Message Sender
+
+🔹 Group Broadcasting
+
+🔹 Animated Terminal Interface
+
+🔹 Easy Account Login
+
+🔹 Lightweight & Fast
+
+🔹 Pyrogram Based
+
+---
+
+⚡ Quick Install
+
+git clone https://github.com/YOUR-USERNAME/ETH-BD-UserBot.git
 cd ETH-BD-UserBot
-
-Install Requirements
-
 pip install -r requirements.txt
-
-Run UserBot
-
 python bot.py
 
 ---
 
-📋 Commands
-
-Command| Description
-".help"| Show Help Menu
-".ping"| Check Bot Speed
-".send"| Send Messages
-".sendd"| Send With Delay
-".broadcast"| Broadcast To Groups
-".stop"| Stop UserBot
-
----
-
-⚠️ Educational Purpose Only
-
-This repository was created strictly for:
-
-- Learning Pyrogram
-- Telegram API Practice
-- Python Async Programming
-- UserBot Development
-- Educational Research
-
-❌ Prohibited Usage
-
-- Harassment
-- Unsolicited Messaging
-- Flooding
-- Abuse
-- Any Activity Violating Telegram Terms
-
-The developer is not responsible for any misuse of this project.
-
----
-
-🔐 Security Notice
-
-Never share:
-
-- API ID
-- API HASH
-- Session Files
-- Credentials
-
-Keep your account information private.
-
----
-
-🌟 Support
-
-If you like this project, consider giving it a ⭐ on GitHub.
-
----
-
-<div align="center">👨‍💻 Developed By ETHICAL HACKER BD
-
-Telegram: @Ethical_Hackers_BD
-
-Made with ❤️ using Python
-
-</div>
-✨ Features
-
-- Ping command with response time
-- Custom message sending
-- Delayed message sending
-- Group broadcasting
-- Animated terminal UI
-- Easy credential setup
-- UserBot based on Pyrogram
-
-📦 Requirements
-
-- Python 3.9+
-- Pyrogram
-- TgCrypto
-- Colorama
-
-🚀 Installation
+📥 Manual Installation
 
 Clone Repository
 
-git clone https://github.com/cyberarafatofficial/TG-SPAM-TOOL.git
-cd TG-SPAM-TOOL
+git clone https://github.com/YOUR-USERNAME/ETH-BD-UserBot.git
+
+Enter Directory
+
+cd ETH-BD-UserBot
 
 Install Dependencies
 
@@ -136,48 +70,99 @@ Run Bot
 
 python bot.py
 
-🔑 Configuration
+---
 
-On first launch, the bot will ask for:
+🔑 First Time Setup
 
-- API ID
-- API HASH
-- Phone Number
+When you run the bot for the first time, it will ask for:
 
-These credentials will be stored locally in "creds.txt".
+API ID
+API HASH
+PHONE NUMBER
 
-You can obtain API credentials from:
+Get your credentials from:
 
 https://my.telegram.org
 
-📖 Commands
+---
+
+📋 Commands
 
 Command| Description
 ".help"| Show command list
-".ping"| Check bot latency
-".send"| Send message multiple times
+".ping"| Check response speed
+".send"| Send custom messages
 ".sendd"| Send messages with delay
-".broadcast"| Broadcast message to groups
-".stop"| Stop the bot
+".broadcast"| Broadcast to groups
+".stop"| Stop UserBot
 
-🛡️ Educational Purpose Notice
+---
 
-This repository is intended to help developers learn:
+📂 Project Structure
 
-- Telegram API usage
-- Pyrogram framework
-- Async programming in Python
-- UserBot architecture
-- Event-driven development
+ETH-BD-UserBot/
+│
+├── bot.py
+├── creds.txt
+├── requirements.txt
+├── README.md
+│
+└── session files
 
-Any use of this software for unsolicited messaging, spam, harassment, or abuse is strictly discouraged.
+---
 
-📜 License
+⚠️ Disclaimer
 
-This project is released under the MIT License.
+This repository is provided strictly for educational and learning purposes.
 
-👨‍💻 Author
+The author does not encourage:
 
-Ethical Hacker BD
+❌ Harassment
 
-Telegram Channel: @Ethical_Hackers_BD
+❌ Flooding
+
+❌ Abuse
+
+❌ Unauthorized Activities
+
+❌ Violation of Telegram Terms of Service
+
+Users are fully responsible for how they use this software.
+
+---
+
+🔐 Security Tips
+
+Never share:
+
+API ID
+API HASH
+Session Files
+Phone Number
+Credentials
+
+Keep your account secure.
+
+---
+
+🌟 Support
+
+If you find this project useful:
+
+⭐ Star this repository
+
+🍴 Fork the project
+
+📢 Share with others
+
+---
+
+<div align="center">👨‍💻 ETHICAL HACKER BD
+
+Made With ❤️ Using Python & Pyrogram
+
+Telegram Channel:
+
+@Ethical_Hackers_BD
+
+</div>
