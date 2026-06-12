@@ -37,8 +37,8 @@ Do not use this project for harassment, spamming, flooding, or any malicious act
 
 Clone Repository
 
-git clone https://github.com/yourusername/eth-bd-userbot.git
-cd eth-bd-userbot
+git clone https://github.com/cyberarafatofficial/TG-SPAM-TOOL.git
+cd TG-SPAM-TOOL
 
 Install Dependencies
 
